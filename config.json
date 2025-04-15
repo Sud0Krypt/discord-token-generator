@@ -1,0 +1,10 @@
+{
+    "license": "PqRqny-lN8xHU-i87Sy2-r57HjJ-6inB4r-etXyTg",
+    "captcha_service": "fcaptcha",
+    "captcha_api_key": "fCap",
+    "random_username": true,
+    "password": "",
+    "invite": "",
+    "display_title": true,
+    "show_errors": true
+}
