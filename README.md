@@ -21,6 +21,6 @@ Captcha API Support (fcaptcha, capmonster, 24captcha, capsolver, hcoptcha, 2capt
 
 Telegram Channel: [Join Here](https://t.me/+Tvbz-xGh_5pjYzVh)
 
-Telegram: [DM me here](https://t.me/sudodaemonn)
+Telegram: [@go0go0fo0go0](https://t.me/go0go0fo0go0)
 
 ## PLEASE LIKE AND STAR THIS REPO SO I CONTINUE MAINTAINING IT
